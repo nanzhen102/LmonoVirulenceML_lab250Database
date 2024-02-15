@@ -245,7 +245,7 @@ dependencies:
     - certifi==2019.9.11
     - contourpy==1.0.5
     - cplex==22.1.0.0
-    - docplex==2.23.221
+    - docplex==2.25.236
     - feyn==3.0.4
     - ingotdr==0.0.5
     - lark==1.1.3
